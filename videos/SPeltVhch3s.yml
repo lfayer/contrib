@@ -2,7 +2,11 @@
 
 tags:
     - devops
-title: 'DevOpsDays KC 2016 - BizOps and you by Leon Fayer'
+    - business
+speaker:
+    - Leon Fayer
+    - papa_fire
+title: 'DevOpsDays KC 2016 - BizOps and you'
 language: English
 recordingDate: 1478277053
-description: "BizOps and you by Leon Fayer\n\nThe intent of this talk is to define the place for business units at DevOps table to improve overall organization communication and tech team efficiency, including monitoring strategy, post-mortems, chatops and other DevOps-centric processes."
+description: "The intent of this talk is to define the place for business units at DevOps table to improve overall organization communication and tech team efficiency, including monitoring strategy, post-mortems, chatops and other DevOps-centric processes."
